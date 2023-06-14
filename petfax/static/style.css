@@ -1,0 +1,15 @@
+body {
+    background-color: burlywood;
+}
+
+.container {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color: brown;
+}
+
+h2 {
+    color: rgb(51, 22, 19);
+}
