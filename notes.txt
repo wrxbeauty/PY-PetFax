@@ -17,5 +17,7 @@
 - Remove pets route from __init__
 - Jinja templates file 
 - Create index.html in templates
+- Render_template in blueprint
+- Import json into pet.py
 - 
 
