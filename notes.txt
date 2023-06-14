@@ -6,3 +6,5 @@
 - create route index
 - Flask run / flask run --reload
 - add pet route 
+- create new directory
+- newfile __init__
