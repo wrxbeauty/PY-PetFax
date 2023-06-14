@@ -19,5 +19,8 @@
 - Create index.html in templates
 - Render_template in blueprint
 - Import json into pet.py
+- Add for loop in index.html
+- Make pets directory and place index.html inside
+- Create show.html in the pets file and do the boiler plate
 - 
 
