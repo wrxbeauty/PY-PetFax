@@ -22,5 +22,5 @@
 - Add for loop in index.html
 - Make pets directory and place index.html inside
 - Create show.html in the pets file and do the boiler plate
-- 
+- Added form for new facts
 
