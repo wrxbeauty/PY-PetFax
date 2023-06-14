@@ -1,10 +1,18 @@
 
-- python3 -m venv venv
-- source venv/bin/activate
-- pip3 install Flask
-- import dependency Flask
-- create route index
+- Command: python3 -m venv venv
+- Command: source venv/bin/activate
+- Command: pip3 install Flask
+- Import dependency Flask into app.py
+- Create route index
 - Flask run / flask run --reload
-- add pet route 
-- create new directory
-- newfile __init__
+- Add pet route 
+- Create new directory
+- New file __init__
+- Cut app.py and paste into __init__.py
+- Call function in app.py
+- Create file called pet.py and import blueprint
+- Create a blueprint instance
+- Create a blueprint route
+- Register blueprint instance in __init__
+- 
+
