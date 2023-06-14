@@ -14,5 +14,8 @@
 - Create a blueprint instance
 - Create a blueprint route
 - Register blueprint instance in __init__
+- Remove pets route from __init__
+- Jinja templates file 
+- Create index.html in templates
 - 
 
