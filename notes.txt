@@ -4,5 +4,5 @@
 - pip3 install Flask
 - import dependency Flask
 - create route index
-- Flask run
-- 
+- Flask run / flask run --reload
+- add pet route 
